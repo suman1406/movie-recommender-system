@@ -18,7 +18,7 @@ This project implements a Movie Recommender System using machine learning techni
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-recommender-system.git
+   git clone https://github.com/suman1406/movie-recommender-system.git
    ```
 2. Navigate to the project directory:
    ```bash
